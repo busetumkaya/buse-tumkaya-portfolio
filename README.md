@@ -29,7 +29,6 @@ Each project includes data analysis, visualizations, and insights to solve real-
 - **Machine Learning**: Scikit-learn (beginner)  
 
 ## Contact & Collaboration
-I’m open to collaboration and freelance opportunities! Let’s discuss how data can drive sustainable and impactful solutions.  
-Email: **your.email@example.com**  
-Kaggle: [Buse's Kaggle](https://www.kaggle.com/busetmkaya)  
-LinkedIn: [Buse's LinkedIn](https://www.linkedin.com/in/busetmkaya)  
+I’m open to collaboration and freelance opportunities! 
+Kaggle: [My Kaggle](https://www.kaggle.com/busetmkaya)  
+LinkedIn: [My LinkedIn](https://www.linkedin.com/in/busetumkaya)  
