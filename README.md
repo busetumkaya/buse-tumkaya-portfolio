@@ -26,7 +26,7 @@ Each project includes data analysis, visualizations, and insights to solve real-
 - **Languages**: Python, SQL, R  
 - **Databases**: PostgreSQL, MySQL  
 - **Data Visualization**: Matplotlib, Seaborn
-- **Machine Learning**: Scikit-learn (beginner)  
+- **Machine Learning**: Scikit-learn
 
 ## Contact & Collaboration
 I’m open to collaboration and freelance opportunities!
