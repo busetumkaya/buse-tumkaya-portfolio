@@ -29,6 +29,7 @@ Each project includes data analysis, visualizations, and insights to solve real-
 - **Machine Learning**: Scikit-learn (beginner)  
 
 ## Contact & Collaboration
-I’m open to collaboration and freelance opportunities! 
-Kaggle: [My Kaggle](https://www.kaggle.com/busetmkaya)  
-LinkedIn: [My LinkedIn](https://www.linkedin.com/in/busetumkaya)  
+I’m open to collaboration and freelance opportunities!
+
+My Kaggle: [Kaggle](https://www.kaggle.com/busetmkaya)  
+My LinkedIn: [LinkedIn](https://www.linkedin.com/in/busetumkaya)  
