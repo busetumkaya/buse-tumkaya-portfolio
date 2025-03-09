@@ -31,5 +31,5 @@ Each project includes data analysis, visualizations, and insights to solve real-
 ## Contact & Collaboration
 I’m open to collaboration and freelance opportunities!
 
-My Kaggle: [Kaggle](https://www.kaggle.com/busetmkaya)  
-My LinkedIn: [LinkedIn](https://www.linkedin.com/in/busetumkaya)  
+[Kaggle](https://www.kaggle.com/busetmkaya)  
+[LinkedIn](https://www.linkedin.com/in/busetumkaya)  
