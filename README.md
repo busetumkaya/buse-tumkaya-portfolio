@@ -15,7 +15,7 @@ Each project includes data analysis, visualizations, and insights to solve real-
 ### 2️ **Customer Segmentation & Behavior Analysis**   
 📌 **Objective**: Use SQL and Python to classify customer segments based on demographics and purchasing behavior.  
 🔗 **Tools Used**: SQL, Pandas, Matplotlib  
-🛠 **Project Link**: [Kaggle Notebook - Customer Segmentation Analysis](https://www.kaggle.com/code/busetmkaya/customer-segmentation-analysis))   
+🛠 **Project Link**: [Kaggle Notebook - Customer Segmentation Analysis](https://www.kaggle.com/code/busetmkaya/customer-segmentation-analysis)   
 
 ### 3 **Spotify Top 10,000 Songs Analysis**  
 📌 **Objective**: Analyze Spotify’s most streamed songs to uncover trends in artist popularity, genre preferences, and streaming behavior.  
